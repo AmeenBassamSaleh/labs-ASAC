@@ -1,0 +1,35 @@
+header{
+    background-color: #262F34;color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+header nav li{
+    list-style: none;
+}
+
+img{
+    width: 90%;
+    margin: 20pt;
+
+}
+
+#a{
+    color: #262F34;
+}
+#b{
+    color: #56AB88;
+}
+
+#c{
+    color: #262F34;
+}
+
+header nav li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+}
