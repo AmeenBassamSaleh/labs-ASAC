@@ -8,6 +8,9 @@ var a = Function(b)
 
 }
 
+
+a(b)
+
 //  a("  b")
 
 // function render(){
