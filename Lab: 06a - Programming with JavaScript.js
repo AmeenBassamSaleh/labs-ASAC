@@ -1,4 +1,4 @@
-var b = prompt("Did you like Mansaf?");
+var b = prompt("what your name?");
 
 var a = Function(b)
 {
